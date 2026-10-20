@@ -1,0 +1,12 @@
+{
+  "name": "ocrwell",
+  "description": "Skill for the OCRWell document OCR API. Teaches the agent the two-step upload flow, job polling, structured extraction schemas, error handling, and webhook signature verification.",
+  "author": {
+    "name": "OCRWell",
+    "url": "https://ocrwell.com"
+  },
+  "homepage": "https://ocrwell.com",
+  "repository": "https://github.com/ocrwell/skill",
+  "license": "MIT",
+  "keywords": ["ocr", "ocrwell", "document", "extraction", "skill"]
+}

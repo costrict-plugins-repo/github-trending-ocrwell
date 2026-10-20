@@ -1,0 +1,23 @@
+{
+  "name": "ocrwell",
+  "owner": {
+    "name": "OCRWell",
+    "email": "support@ocrwell.com"
+  },
+  "metadata": {
+    "description": "OCRWell document OCR API integration for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "ocrwell",
+      "source": "./",
+      "version": "0.1.1",
+      "description": "Skill for the OCRWell document OCR API.",
+      "homepage": "https://ocrwell.com",
+      "repository": "https://github.com/ocrwell/skill",
+      "license": "MIT",
+      "keywords": ["ocr", "ocrwell", "document", "extraction"],
+      "category": "integrations"
+    }
+  ]
+}

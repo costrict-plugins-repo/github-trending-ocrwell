@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# npm pack output
+*.tgz
+
+# Claude Code
+.claude/settings.local.json
+
+# Playwright skill working files
+.playwright-cli/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~

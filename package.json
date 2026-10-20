@@ -1,0 +1,29 @@
+{
+  "name": "@ocrwell/skill",
+  "version": "0.1.1",
+  "description": "Skill for the OCRWell document OCR API — works with Claude Code and OpenAI Codex.",
+  "type": "module",
+  "bin": {
+    "ocrwell-skill": "bin/install.mjs"
+  },
+  "files": [
+    ".claude-plugin/",
+    "skills/",
+    "bin/",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "homepage": "https://ocrwell.com",
+  "keywords": [
+    "claude-code",
+    "claude",
+    "anthropic",
+    "ocr",
+    "ocrwell",
+    "skill",
+    "plugin"
+  ]
+}
